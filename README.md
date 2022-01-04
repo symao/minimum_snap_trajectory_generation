@@ -1,5 +1,5 @@
 # minimum snap trajectory planning in MATLAB
-This repository contains sample code in MATLAB for minimum snap trajectory planning described in http://blog.csdn.net/q597967420/article/details/73647190.
+This repository contains sample code in MATLAB for minimum snap trajectory planning described in https://blog.csdn.net/q597967420/article/details/76099491.
 This README provides a brief overview of our trajectory generation utilities with some examples.
 
 ## Required
